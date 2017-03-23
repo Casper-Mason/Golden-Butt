@@ -1,5 +1,5 @@
 # Golden-Butt
-"Jones N. Forebuts and the Secret of the Golden Butt" - A game made in Twine 2 (using Harlowe)
+"Jones N. Forebuts and the Secret of the Golden Butt" - A dadaist interactive fiction made in Twine 2 (using Harlowe)
 
 https://casper-mason.github.io/Golden-Butt/
 
